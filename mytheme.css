@@ -1,0 +1,16 @@
+/* @theme mytheme */
+
+@import 'default';
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
+
+section {
+        justify-content: normal;
+        font-family: 'Noto Sans JP';
+}
+
+section.lead {
+        justify-content: center;
+        text-align: center;
+        font-family: 'Noto Sans JP';
+}
