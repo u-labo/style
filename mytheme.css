@@ -5,19 +5,23 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 
 section {
-        background-color: #gray;
+        background-color: #EFEFEF;
+        color: ＃3c3c3c;
         justify-content: normal;
         font-family: 'Noto Sans JP';
         font-size: 40px;
 }
 
 section.lead {
+        background-color: #EFEFEF;
+        color: ＃3c3c3c;
         justify-content: center;
         text-align: center;
         font-family: 'Noto Sans JP';
-        font-size: 50px;
+        font-size: 60px;
 }
 
 h2 {
-        border-bottom: 2px solid ;       
+        border-bottom: 4px solid ;       
 }
+
