@@ -17,3 +17,7 @@ section.lead {
         font-family: 'Noto Sans JP';
         font-size: 60px;
 }
+
+h2 {
+        border-bottom: 2px solid ;       
+}
