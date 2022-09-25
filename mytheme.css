@@ -11,7 +11,7 @@ section {
 
 section.lead {
         justify-content: center;
-        text-align: right;
+        text-align: center;
         font-family: 'Noto Sans JP';
-        font-size: 80px;
+        font-size: 60px;
 }
