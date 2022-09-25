@@ -5,8 +5,10 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 
 section {
+        background-color: #gray;
         justify-content: normal;
         font-family: 'Noto Sans JP';
+        font-size: 40px;
 }
 
 section.lead {
