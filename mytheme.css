@@ -8,7 +8,7 @@ section {
         background-color: #eba0ca;
         color: ＃000;
         justify-content: normal;
-        font-family: 'Noto Sans JP';
+        font-family: 'Hiragino Maru Gothic ProN','Noto Sans JP';
         font-size: 30px;
         width: 1920px;
 	height: 1080px;
@@ -20,7 +20,7 @@ section.lead {
         color: ＃000;
         justify-content: center;
         text-align: center;
-        font-family: 'Noto Sans JP';
+        font-family: 'Hiragino Maru Gothic ProN','Noto Sans JP';
         font-size: 60px;
         width: 1920px;
 	height: 1080px;
