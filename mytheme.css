@@ -5,8 +5,6 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP');
 
 section {
-        background-color: #efefef;
-        color: ＃000;
         justify-content: normal;
         font-family: 'Hiragino Maru Gothic ProN','Noto Sans JP';
         font-size: 30px;
@@ -16,8 +14,6 @@ section {
 }
 
 section.lead {
-        background-color: #e2cdb0;
-        color: ＃000;
         justify-content: center;
         text-align: center;
         font-family: 'Hiragino Maru Gothic ProN','Noto Sans JP';
